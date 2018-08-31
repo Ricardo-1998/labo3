@@ -1,0 +1,42 @@
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+    text-align: center;
+    color: black;
+}
+
+.black{
+    background-color: black;
+    height: 75px;
+    width: 75px;
+    text-align: center;
+}
+
+.white{
+    background-color: white;
+    height: 75px;
+    width: 75px;
+    text-align: center;
+}
+p{
+    visibility: hidden;
+}
+
+.black:hover{
+    background-color:  rgba(255, 0, 0, 0.5); 
+}
+
+.white:hover{
+    background-color:  rgba(255, 0, 0, 0.5); 
+}
+.black:hover p{
+    visibility: visible;
+}
+.white:hover p{
+    visibility: visible;
+}
+
+
