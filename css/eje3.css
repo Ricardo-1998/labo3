@@ -1,0 +1,197 @@
+h1{
+    font-size: 3em;
+}
+
+.botongrande{
+    background-color: #f4f3f2;
+    color: #857b7b;
+    border: none;
+    border-radius: 11px;
+    height: 5rem;
+    width: 14rem;
+    font-size: 2.5em;
+
+}
+.botonnormal{
+    background-color: #f4f3f2;
+    color: #949093;
+    border: none;
+    border-radius: 9px;
+    height: 3.4rem;
+    width: 7.7rem;
+    margin-right: 2em;
+    font-size: 1.5em;
+}
+
+.botonpeque{
+    background-color: #f4f3f2;
+    color: #929095;
+    border: none;
+    border-radius: 5px;
+    height: 2rem;
+    width: 6rem;
+    margin-right: 2em;
+    font-size: 0.9em;
+}
+
+
+h2{
+    font-size: 2em;
+}
+
+.colores>button{
+    display: inline-block;
+    color: white;
+    border: none;
+    border-radius: 9px;
+    margin-right: 1em;
+    font-size: 1.5em;
+}
+
+.esmeralda{
+    background-color: #57d68d;
+    height: 3rem;
+    width: 11.1rem;
+}
+
+.cielo{
+    background-color: #5cace2;
+    height: 3rem;
+    width: 6.1rem;
+}
+
+.amatista{
+    background-color: #ae7ac4;
+    height: 3rem;
+    width: 8.1rem;
+}
+
+.asfalto{
+    background-color:  #5c6d7e;
+    height: 3rem;
+    width: 8.1rem;
+}
+
+.topazio{
+    background-color: #ea974e;
+    height: 3rem;
+    width: 8.1rem;
+}
+
+.rubi{
+    background-color: #eb6f62;
+    height: 3rem;
+    width: 6.1rem;
+}
+/* ---------------------------------------------------------*/
+.bordeado>button{
+    display: inline-block;
+    background-color: white;
+    border-top-width: 2px;
+    border-bottom-width: 2px;
+    border-right-width: 2px;
+    border-left-width: 2px;
+    border-radius: 9px;
+    margin-right: 1em;
+    font-size: 1.5em;
+}
+.bsimple{
+    border-color: #857b7b;
+    color: #857b7b;
+    height: 3rem;
+    width: 6.4rem;
+}
+.besmeralda{
+    border-color: #57d68d;
+    color: #57d68d;
+    height: 3rem;
+    width: 11.1rem;
+}
+
+.bcielo{
+    border-color: #5cace2;
+    color: #5cace2;
+    height: 3rem;
+    width: 6.1rem;
+}
+
+.bamatista{
+    border-color: #ae7ac4;
+    color: #ae7ac4;
+    height: 3rem;
+    width: 8.1rem;
+}
+
+.basfalto{
+    border-color:  #5c6d7e;
+    color:  #5c6d7e;
+    height: 3rem;
+    width: 8.1rem;
+}
+
+.btopazio{
+    border-color: #ea974e;
+    color: #ea974e;
+    height: 3rem;
+    width: 8.1rem;
+}
+
+.brubi{
+    border-color: #eb6f62;
+    color: #eb6f62;
+    height: 3rem;
+    width: 6.1rem;
+}
+
+/* ---------------------------------------------------------*/
+
+.combinaciones>button{
+    display: inline-block;
+    border-radius: 9px;
+    margin-right: 1em;
+    
+}
+
+.largoasfalto{
+    border: none;
+    background-color: #5c6d7e;
+    color: white;
+    height: 4rem;
+    width: 17rem;
+    font-size: 1.59rem;
+    font-weight: 400;
+}
+
+.bordecielo{
+    background-color: white;
+    color: #5cace2;
+    border-color: #5cace2;
+    height: 3.6rem;
+    width: 14rem;
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+
+.pequeesmeralda{
+    border: none;
+    background-color: #57d68d;
+    color: white;
+    height: 2.65rem;
+    width: 10.5rem;
+    font-size: 0.8rem;
+    font-weight: 500;
+}
+
+.borderubi{
+    background-color: white;
+    color: #eb6f62;
+    border-color: #eb6f62;
+    height: 4rem;
+    width: 17rem;
+    font-size: 1.59rem;
+    font-weight: 400;
+    border-top-width: 3px;
+    border-bottom-width: 3px;
+    border-right-width: 3px;
+    border-left-width: 3px;
+}
