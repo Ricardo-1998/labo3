@@ -87,57 +87,54 @@ h2{
 .bordeado>button{
     display: inline-block;
     background-color: white;
-    border-top-width: 2px;
-    border-bottom-width: 2px;
-    border-right-width: 2px;
-    border-left-width: 2px;
     border-radius: 9px;
     margin-right: 1em;
     font-size: 1.5em;
 }
 .bsimple{
-    border-color: #857b7b;
+
+    border: 3px solid #857b7b;
     color: #857b7b;
     height: 3rem;
     width: 6.4rem;
 }
 .besmeralda{
-    border-color: #57d68d;
+    border: 3px solid #57d68d;
     color: #57d68d;
     height: 3rem;
     width: 11.1rem;
 }
 
 .bcielo{
-    border-color: #5cace2;
+    border: 3px solid #5cace2;
     color: #5cace2;
     height: 3rem;
     width: 6.1rem;
 }
 
 .bamatista{
-    border-color: #ae7ac4;
+    border: 3px solid #ae7ac4;
     color: #ae7ac4;
     height: 3rem;
     width: 8.1rem;
 }
 
 .basfalto{
-    border-color:  #5c6d7e;
+    border: 3px solid #5c6d7e;
     color:  #5c6d7e;
     height: 3rem;
     width: 8.1rem;
 }
 
 .btopazio{
-    border-color: #ea974e;
+    border: 3px solid #ea974e;
     color: #ea974e;
     height: 3rem;
     width: 8.1rem;
 }
 
 .brubi{
-    border-color: #eb6f62;
+    border: 3px solid #eb6f62;
     color: #eb6f62;
     height: 3rem;
     width: 6.1rem;
@@ -165,7 +162,7 @@ h2{
 .bordecielo{
     background-color: white;
     color: #5cace2;
-    border-color: #5cace2;
+    border: 3px solid #5cace2;
     height: 3.6rem;
     width: 14rem;
     font-size: 1.2rem;
@@ -185,13 +182,9 @@ h2{
 .borderubi{
     background-color: white;
     color: #eb6f62;
-    border-color: #eb6f62;
     height: 4rem;
     width: 17rem;
     font-size: 1.59rem;
     font-weight: 400;
-    border-top-width: 3px;
-    border-bottom-width: 3px;
-    border-right-width: 3px;
-    border-left-width: 3px;
+    border: 3px solid #eb6f62;
 }
